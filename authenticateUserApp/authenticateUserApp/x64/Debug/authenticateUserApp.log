@@ -1,0 +1,3 @@
+﻿  authenticateUserApp.cpp
+C:\Users\LENOVO THINKPAD T470\source\repos\authenticateUserApp\authenticateUserApp\authenticateUserApp.cpp(58,1): warning C4102: 'm': unreferenced label
+  authenticateUserApp.vcxproj -> C:\Users\LENOVO THINKPAD T470\source\repos\authenticateUserApp\x64\Debug\authenticateUserApp.exe
